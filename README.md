@@ -53,10 +53,9 @@
 
 <hr>
 
-<p align="left">WANNA  TALK !?</p>
+<p align="left">MORE OF ME :</p>
 
 ###
-
 
 
 <p align="left">- Linkedin : https://www.linkedin.com/in/pinak-tilavat-32517a305/<br>- Leetcode : https://leetcode.com/PINAK-TILAVAT/<br>- Gmail : dingo.in4k@gmail.com</p>
