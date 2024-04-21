@@ -14,6 +14,12 @@
 ###
 <hr>
 
+<div align="left">
+  <img src="https://profile-counter.glitch.me/PINAK-CORE/count.svg?"  />
+</div>
+
+<br>
+
 
 <p align="left">THINGS I KNOW  :</p>
 
