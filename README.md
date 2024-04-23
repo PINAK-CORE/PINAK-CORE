@@ -73,6 +73,8 @@
 
 <hr>
 
+![snake gif](https://github.com/YOUR_USERNAME/PINAK-CORE/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
