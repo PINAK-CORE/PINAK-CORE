@@ -20,9 +20,15 @@
 
 
 <br>
+<div align="left">
+  <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-
+###
 <p align="left">THINGS I KNOW  :</p>
+
 
 ###
 
@@ -59,8 +65,6 @@
 ###
 
 <hr>
-
-<p align="left">MORE OF ME :</p>
 
 ###
 <img src="https://raw.githubusercontent.com/PINAK-CORE/PINAK-CORE/output/snake.svg" alt="Snake animation" />
