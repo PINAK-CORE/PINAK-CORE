@@ -65,8 +65,6 @@
 ###
 
 
-<p align="left">- Linkedin : https://www.linkedin.com/in/pinak-tilavat-32517a305/<br>- Leetcode : https://leetcode.com/PINAK-TILAVAT/<br>- Gmail : dingo.in4k@gmail.com</p>
-
 ###
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/PINAK-TILAVAT?ext=heatmap)
