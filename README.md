@@ -63,6 +63,8 @@
 <p align="left">MORE OF ME :</p>
 
 ###
+<img src="https://raw.githubusercontent.com/PINAK-CORE/PINAK-CORE/output/snake.svg" alt="Snake animation" />
+
 
 
 ###
