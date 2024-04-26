@@ -9,21 +9,26 @@
 
 ###
 
-<p align="left">- I do CSE or maybe CSE doing me 💀🌸<br><br>- I speak in : JAVA ☕ / PYTHON 🐍 <br><br>- Expert in went to the basement and get shit done .<br><br>- Fun thing about me : i exists ( *concerning )</p>
+<p align="left">- I do CSE or maybe CSE doing me 💀🌸<br><br>- I speak in : JAVA ☕ / PYTHON 🐍 <br><br>- Expert in went to the basement and get shit done .<br><br>- Fun thing about me : i exists ( *it's concerning )</p>
 
 ###
 <hr>
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/PINAK-CORE/count.svg?"  />
+
 </div>
 
 
 <br>
-<div align="left">
+  <div align="left">
   <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
+  <img src="portfolio_logo.png" height="50" alt="linkedin logo"  />
+  </a>
+
 </div>
 
 ###
