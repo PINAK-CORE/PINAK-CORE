@@ -25,7 +25,7 @@
   <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
+  <a href="https://portfolio-site-navy-tau.vercel.app/" >
   <img src="portfolio_logo.png" height="50" alt="linkedin logo"  />
   </a>
 
