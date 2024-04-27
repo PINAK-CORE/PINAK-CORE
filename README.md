@@ -20,21 +20,9 @@
 
 </div>
 
-  <div align="left">
-  <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
-   @LEETCODE
-  </a>
-    ,  
-  <a href="https://portfolio-site-navy-tau.vercel.app/" >
-  @PORTFOLIO-SITE
-  </a>
-
-
-<br>
   
-</div>
-
 ###
+
 <p align="left">THINGS I KNOW  :</p>
 
 
@@ -68,6 +56,17 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
+<br>
+<div align="center">
+  <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
+   @LEETCODE
+  </a>
+    ,  
+  <a href="https://portfolio-site-navy-tau.vercel.app/" >
+  @PORTFOLIO-SITE
+  </a>
+  
 </div>
 
 ###
