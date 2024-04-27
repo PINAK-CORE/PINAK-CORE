@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left">- I do CSE or maybe CSE doing me 💀🌸<br><br>- I speak in : JAVA ☕ / PYTHON 🐍 <br><br>- Expert in went to the basement and get shit done .<br><br>- Fun thing about me : i exists ( *it's concerning )</p>
+<p align="left">- I do CSE or maybe CSE doing me 💀🌸<br><br>- I speak in : JAVA ☕ / PYTHON 🐍 <br><br>- Expert in went to the basement and get shit done .<br><br>- Fun thing about me : i exists ( *it's concerning )
+</p>
 
 ###
 <hr>
@@ -19,16 +20,18 @@
 
 </div>
 
-
-<br>
   <div align="left">
   <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="40" alt="linkedin logo"  />
+   @LEETCODE
   </a>
+    ,  
   <a href="https://portfolio-site-navy-tau.vercel.app/" >
-  <img src="portfolio_logo.png" height="50" alt="linkedin logo"  />
+  @PORTFOLIO-SITE
   </a>
 
+
+<br>
+  
 </div>
 
 ###
