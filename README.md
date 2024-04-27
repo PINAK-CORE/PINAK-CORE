@@ -75,14 +75,16 @@
 <hr>
 
 ###
+<div align="center">
 <img src="https://raw.githubusercontent.com/PINAK-CORE/PINAK-CORE/output/snake.svg" alt="Snake animation" />
-
+</div>
 
 
 ###
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/PINAK-TILAVAT?ext=heatmap)
-
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/PINAK-TILAVAT?theme=dark&font=PT%20Sans%20Caption&ext=heatmap)
+</div>
 <hr>
 
 
