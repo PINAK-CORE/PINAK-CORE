@@ -16,7 +16,7 @@
 <hr>
 
 
-![](https://komarev.com/ghpvc/?username=PINAK-CORE&label=PROFILE+VIEWS&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=PINAK-CORE&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge)
 
 
 
