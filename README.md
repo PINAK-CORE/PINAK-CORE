@@ -15,10 +15,10 @@
 ###
 <hr>
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/PINAK-CORE/count.svg?"  />
 
-</div>
+![](https://komarev.com/ghpvc/?username=PINAK-CORE&label=PROFILE+VIEWS&color=ff69b4)
+
+
 
   
 ###
