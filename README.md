@@ -1,8 +1,6 @@
 
 <h1 align="center">HII !! 🦊</h1>
 
-
-
 <br clear="both">
 
 <img align="left" height="200" src="https://i.pinimg.com/564x/b8/8f/0b/b88f0bc75c7f89a978e97d8ba53462b7.jpg"  />
@@ -20,13 +18,19 @@
 
 
 
+
+
+### 🔗 Social Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://katherineoelsner.com/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/PINAK-TILAVAT/)
+[![Raddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=Reddit&logoColor=white)](https://katherineoelsner.com/)
+
+<hr>
   
-###
-
-<p align="left">THINGS I KNOW  :</p>
-
-
-###
+### 🛠 THINGS I KNOW 
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -37,7 +41,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
@@ -57,23 +65,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
-<br>
-<div align="center">
-  <a href="https://leetcode.com/u/PINAK-TILAVAT/" >
-   @LEETCODE
-  </a>
-    ,  
-  <a href="https://portfolio-site-navy-tau.vercel.app/" >
-  @PORTFOLIO-SITE
-  </a>
-  
-</div>
-
-###
 
 <hr>
 
 ###
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/PINAK-CORE/PINAK-CORE/output/snake.svg" alt="Snake animation" />
 </div>
