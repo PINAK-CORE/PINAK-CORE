@@ -22,11 +22,11 @@
 
 ### 🔗 Social Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-site-navy-tau.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-tilavat-32517a305/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)]()
 [![Leetcode](https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/PINAK-TILAVAT/)
-[![Raddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=Reddit&logoColor=white)](https://katherineoelsner.com/)
+[![Raddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Tyler_Durden_Live/)
 
 <hr>
   
