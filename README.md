@@ -25,6 +25,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-site-navy-tau.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-tilavat-32517a305/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/PINAK-TILAVAT/)
+[![Leetcode](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pinakin4k)
 
 
 <hr>
